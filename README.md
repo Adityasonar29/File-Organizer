@@ -1,13 +1,5 @@
 # Smart File Organizer Pro (Deterministic Engine)
 
-To make your GitHub repository look professional, your README should clearly explain the **Date Priority System** we built. It shows potential users (and employers) that the code is deterministic and reliable.
-
-Here is the updated `README.md`. I have included a section on the folder structure and how the "Intelligence Engine" handles those tricky camera filenames.
-
----
-
-# Smart File Organizer Pro (Deterministic Engine)
-
 A high-performance Python utility with a GUI that organizes cluttered directories into a structured hierarchy based on file categories and smart date extraction.
 
 ## 🧠 The Intelligence Engine
