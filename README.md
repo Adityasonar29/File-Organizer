@@ -6,9 +6,6 @@ Here is the updated `README.md`. I have included a section on the folder structu
 
 ---
 
-**Markdown**
-
-```
 # Smart File Organizer Pro (Deterministic Engine)
 
 A high-performance Python utility with a GUI that organizes cluttered directories into a structured hierarchy based on file categories and smart date extraction.
